@@ -1,2 +1,1 @@
-http://xn--nlua550ns4y.com/api/v1/client/subscribe?token=87f06f2fa53678517bf4eb48c8048cdf, tag=懂的都懂-Could, update-interval=172800, opt-parser=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png，enabled=true
-https://sub.shuttle.mobi/app/quantumultx/14855/tWKWYIX5W7tJ, tag=Shuttle, update-interval=172800, opt-parser=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png，enabled=true
+https://sub.shuttle.mobi/app/quantumultx/14855/tWKWYIX5W7tJ
